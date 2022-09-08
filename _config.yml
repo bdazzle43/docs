@@ -19,7 +19,7 @@ color_scheme: light
 # in the templates via {{ site.myvariable }}.
 title: project-wizard
 description: Powerful and scalable wizard for creating new projects from boilerplates.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://project-wizard.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
